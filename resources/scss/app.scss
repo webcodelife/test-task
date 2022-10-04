@@ -1,0 +1,15 @@
+@import 'bootstrap/scss/bootstrap';
+
+.limit-width {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.wait {
+    pointer-events: none;
+    opacity: 0.3;
+}
+
+.js-message {
+    display: none;
+}
